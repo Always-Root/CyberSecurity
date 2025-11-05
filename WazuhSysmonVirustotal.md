@@ -1,6 +1,14 @@
 ## What is Wazuh?
 Wazuh is a security platform that provides unified XDR (Extended Detection and Response) and SIEM protection for endpoints and cloud workloads. Wazuh is free and open source.
 
+## What is Sysmon?
+A free Windows system service and driver that provides detailed logging of system activity, such as process creations, network connections, and file changes, to the event log
+
+
+## What is VirusTotal?
+is a free online service that analyzes suspicious files, URLs, domains, and IP addresses to detect malware and other malicious content using dozens of antivirus engines
+
+
 ## We need to setup Wazuh for file integrity and malware detection
 To achieve this goal, we need to setup and install the following: 
 1.	Setting up Wazuh on virtual box and Accessing the Wazuh dashboard
