@@ -25,8 +25,15 @@ To achieve this goal, we need to setup and install the following:
 *	And enjoy the beautiful Wazuh interface, are we done? no, no there is a lot to do.
 
 
+
+
 ## Install Wazuh agent on endpoint(windows 10):
-*	Download Wazuh GUI agent for window 10  (https://packages.wazuh.com/4.x/windows/wazuh-agent-4.14.0-1.msi).
+*	Copy the below command and paste in the powershell, change the IP with your one in the command.
+```Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.x.x-1.msi -OutFile wazuh-agent-4.x.x.msi; .\wazuh-agent-4.x.x.msi /q WAZUH_MANAGER='WAZUH_SERVER_IP' WAZUH_REGISTRATION_SERVER='WAZUH_SERVER_IP'```
 *	Change the manager IP filed with your Wazuh server IP
+*	Apply the same to the GUI agent if you want.
 <img width="799" height="446" alt="Image" src="https://github.com/user-attachments/assets/79068ec7-8f4a-4b29-b7fa-d1ef7a03a906" />
 
+
+*	Once the connection made you will see the agents in the endpoint devices by clicking on it
+<img width="1349" height="597" alt="Image" src="https://github.com/user-attachments/assets/cf960fe9-aa2f-4d78-b8c4-2f0c55b92ee9" />
