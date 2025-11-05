@@ -39,6 +39,7 @@ To achieve this goal, we need to setup and install the following:
 *	Copy the below command and paste in the powershell, change the IP with your one in the command.
 ```Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.x.x-1.msi -OutFile wazuh-agent-4.x.x.msi; .\wazuh-agent-4.x.x.msi /q WAZUH_MANAGER='WAZUH_SERVER_IP' WAZUH_REGISTRATION_SERVER='WAZUH_SERVER_IP'```
 *	Change the manager IP filed with your Wazuh server IP
+*	Then run this commannd ```NET START WazuhSvc``` to start the wazuh agent
 *	Apply the same to the GUI agent if you want.
 <img width="799" height="446" alt="Image" src="https://github.com/user-attachments/assets/79068ec7-8f4a-4b29-b7fa-d1ef7a03a906" />
 
