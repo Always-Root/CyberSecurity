@@ -63,4 +63,7 @@ To achieve this goal, we need to setup and install the following:
 * Add this code to ossec.conf in directory portion like its shown below:
 <img width="1360" height="768" alt="notepad_a0cXmExAfB" src="https://github.com/user-attachments/assets/42975c9e-5bc7-4477-8662-8e2b0a38114c" />
 
+* Run these commands ```net stop wazuh``` and ```net start wazuh```
+* Once it done all the sysmon logs will be sent to Wazuh dashboard
+
 
