@@ -14,7 +14,7 @@ To achieve this goal, we need to setup and install the following:
 1.	Setting up Wazuh on virtual box and Accessing the Wazuh dashboard
 2.	Install Wazuh agent on endpoint(windows 10)
 3.	Install Sysmon on endpoint (windows 10) device. Integrate Sysmon logs to Wazuh agent
-4.	File integrity (file creation, modification and deletion will be triggered on Wazuh server)
+4.	File integrity monitring(file creation, modification and deletion will be triggered on Wazuh server)
 5.	Connecting with total virus to detect malicious payloads
 
 
@@ -65,5 +65,8 @@ To achieve this goal, we need to setup and install the following:
 
 * Run these commands ```net stop wazuh``` and ```net start wazuh```
 * Once it done all the sysmon logs will be sent to Wazuh dashboard
+
+
+## File integrity monitring or FIM with Wazuh
 
 
