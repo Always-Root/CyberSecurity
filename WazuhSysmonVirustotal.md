@@ -68,5 +68,13 @@ To achieve this goal, we need to setup and install the following:
 
 
 ## File integrity monitring or FIM with Wazuh
+* Open the ossec.conf file and add the following line of code and the user name with your one
+  ```
+  <directories check_all="yes" report_changes="yes" realtime="yes">C:\Users\Username\Desktop</directories>
+  ```
+  <img width="1360" height="728" alt="notepad_6UpkUeTCWr" src="https://github.com/user-attachments/assets/704a61c5-ccd9-4701-bedd-1d3511a64497" />
+* Once it done correctly file creation, modification and deletion will be trigged on the Wazuh dashboard as shown below
+<img width="1360" height="641" alt="chrome_ID6JxYjUq2" src="https://github.com/user-attachments/assets/6dca10cc-fe63-406c-960d-1c98443ee782" />
+
 
 
