@@ -51,3 +51,19 @@ Enable Replicate delete markers
 Click Save
 
 * The data will be backup the selected destination(S3 bucket).
+
+## Enable Web Application Firewall (WAF) to filter and monitor external traffic.
+* We will be using AWS WAF and CloudFront
+* Click AWS WAF & Shield
+* Create Web ACL enter name regin as Global (CloudFront)
+* Add rules
+* Choose rules according to your choice and select as "Action: Block" then save rules.
+* And create also cloudFront from Add AWS Resource select CloudFront Distribution and the click add
+
+# Monitoring Traffic
+* In WebACL → Logging & metrics
+* Choose:
+
+S3 Bucket or CloudWatch Logs
+Click Enable Logging   
+* And now you will see all the events
