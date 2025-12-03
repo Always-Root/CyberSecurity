@@ -1,0 +1,25 @@
+{% extends "base.html" %} {% block title %}Authentication{% endblock %}
+{% block content %}
+<h1 class="text-3xl font-semibold mb-2 text-emerald-200">Welcome</h1>
+<p class="text-emerald-100/80">
+  Build registration, login and integrating 2FA (Two-Factor Authentication) using Google Authenticator,
+  OAuth 2.0 for user sign-ins and Securing sensitive data.
+</p>
+
+<div class="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-4">
+  <a
+    class="rounded-2xl border border-emerald-700 bg-emerald-900 p-4 hover:bg-emerald-800/70"
+    href="/register"
+  >
+    <h2 class="font-semibold">Register</h2>
+    <p class="text-sm text-slate-400">Create a new account</p>
+  </a>
+  <a
+    class="rounded-2xl border border-emerald-700 bg-emerald-900 p-4 hover:bg-emerald-800/70"
+    href="/login"
+  >
+    <h2 class="font-semibold">Login</h2>
+    <p class="text-sm text-slate-400">Access your dashboard</p>
+  </a>
+</div>
+{% endblock %}
