@@ -49,7 +49,10 @@ systemctl restart apache2
 
 2. When the installation finshed type ```ifconfig``` and copy your IP from the terminal and paste it into your favrite browser.
 * Login window will appear just enter username ```admin``` password ```admin123```
-* Now you are good to to create, upload, delete and share files
+* Now you are good go to create, upload, delete and share files with others.
 
-```
+<img width="1280" height="684" alt="Image" src="https://github.com/user-attachments/assets/81ab9854-4483-46ba-9687-fa017ff19df6" />
+<img width="1212" height="649" alt="Image" src="https://github.com/user-attachments/assets/fd763117-c097-4f93-b1de-f14c623a6288" />
+<img width="1215" height="641" alt="Image" src="https://github.com/user-attachments/assets/94369acb-b555-4695-ada9-5ffc8cefe61c" />
+<img width="1216" height="639" alt="Image" src="https://github.com/user-attachments/assets/20b97b74-11d3-4e8e-b164-15f1633550b5" />
 
