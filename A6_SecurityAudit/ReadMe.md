@@ -12,6 +12,6 @@ sudo apt install zaproxy
 
 ## Automated Scanning with OWASP ZAP to Find Vulnerabilities in the Application
 * Open OWASF ZAP by executing ```owasf-zap``` in the terminal
-* For a quick and easy scan, click on Automated Scan and enter the URL you want to test.
+* For a quick and easy scan, click on Automated Scan and enter the URL you want to test and click on Attack button.
 * After the scan completes, open the Alerts tab to view all detected vulnerabilities categorized by severity.
 * You can generate a report by going to Report and choosing the desired format from there
