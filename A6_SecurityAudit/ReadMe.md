@@ -15,3 +15,4 @@ sudo apt install zaproxy
 * For a quick and easy scan, click on Automated Scan and enter the URL you want to test and click on Attack button.
 * After the scan completes, open the Alerts tab to view all detected vulnerabilities categorized by severity.
 * You can generate a report by going to Report and choosing the desired format from there
+<img width="1353" height="686" alt="VirtualBoxVM_EYhQxhIrS3" src="https://github.com/user-attachments/assets/7c20e23d-2b1a-4aa5-9bc4-e5a64ef858f4" />
