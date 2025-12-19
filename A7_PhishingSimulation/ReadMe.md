@@ -20,3 +20,7 @@ A phishing simulation is a cybersecurity exercise that tests an organization's a
    * Fill as shown below and put that password in the password field you recently copied then click Save Profile
 <img width="341" height="511" alt="4" src="https://github.com/user-attachments/assets/1c4abfde-5ecc-40e5-a7c0-f5317ec27f1b" />
 
+6. Click on Landing Pages > New Page
+   * Choose name of the template, pase the following google template code, check capture data/password and Click Save Page 
+<img width="354" height="502" alt="5" src="https://github.com/user-attachments/assets/8577b1f6-dc82-4ebb-ba98-cae7cf0055f6" />
+
