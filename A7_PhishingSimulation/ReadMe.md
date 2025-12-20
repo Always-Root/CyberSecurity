@@ -47,12 +47,29 @@ A phishing simulation is a cybersecurity exercise that tests an organization's a
 
 Dashboard  
 <img width="898" height="598" alt="10" src="https://github.com/user-attachments/assets/e24e01e3-dabf-460c-8e30-7f8a16ba17ae" />
-   
+
 captured data
 <img width="872" height="581" alt="11" src="https://github.com/user-attachments/assets/3a6f3d47-b857-44f4-a488-487300357d0e" />
 
 You can export the results to CSV for reporting
 
 
+## Teach employees to avoid phishing
+Phishing happens when attackers trick people, like small business owners or employees, into clicking harmful links, opening fake emails or downloading malicious attachments. These actions can expose sensitive information or install malware, but The good thing phishing attacks are frequently preventable when you train employees to recognize and avoid suspicious messages.  
 
+Phishing training is vital to protect operations and public safety.  Are you training your employees to spot phishing and protect their devices? A well-trained workforce can stop attacks before they cause harm.
 
+### Follow these steps to avoid phishing attacks 
+### 1. Use available training resources.
+Train employees to watch for red flags such as strange or unexpected requests, urgent language or suspicious links. Messages may appear to come from known contacts whose accounts were compromised. Early recognition can help stop attacks. Threat literacy helps staff understand how attackers operate through emails, websites or social engineering and how to respond. You don’t need to create training materials from scratch. Your IT provider, trade association or nonprofit may offer no-cost materials.
+
+### 2. Keep employees informed. 
+Designate someone, such as an IT provider or staff lead, to track emerging threats. Ask them to share updates with your team between trainings. 
+Unsure if it’s a phishing message? Follow these tips: 
+    Hover the mouse over the link without clicking it to see where the URL address leads.
+    Use a search engine to look up the sender’s phone number and contact them directly. 
+    Use a known contact method if it appears to come from someone you know. 
+If you suspect phishing, change account passwords immediately. Always report and delete the phishing message. 
+
+### 3. Build a culture of cybersecurity. 
+Threats evolve constantly, so once-a-year training isn’t enough. Set the tone by reinforcing secure online practices regularly. Make sure employees know to whom and how to report suspicious emails or phishing attempts. Ongoing education helps staff stay alert and respond quickly. 
