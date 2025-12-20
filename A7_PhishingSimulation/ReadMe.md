@@ -41,4 +41,18 @@ A phishing simulation is a cybersecurity exercise that tests an organization's a
    * Configure your Campaign with the appropriate Email Template, Landing Page, and Sending Profile. The configured URL will be the GoPhish server URL that hosts the Landing Page and “Email Opened” image tracker
 <img width="843" height="562" alt="8" src="https://github.com/user-attachments/assets/cb541270-9259-4bac-b8f5-5516fd55fed6" />
 
+10. When your campaign is complete
+    * Emailed recevied
+<img width="775" height="517" alt="9" src="https://github.com/user-attachments/assets/a2327e07-3a58-4e9f-bbb5-e184c16d04da" />
+
+Dashboard  
+<img width="898" height="598" alt="10" src="https://github.com/user-attachments/assets/e24e01e3-dabf-460c-8e30-7f8a16ba17ae" />
+   
+captured data
+<img width="872" height="581" alt="11" src="https://github.com/user-attachments/assets/3a6f3d47-b857-44f4-a488-487300357d0e" />
+
+You can export the results to CSV for reporting
+
+
+
 
