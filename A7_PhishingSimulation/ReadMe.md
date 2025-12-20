@@ -26,3 +26,19 @@ A phishing simulation is a cybersecurity exercise that tests an organization's a
    * check capture data/password and Click Save Page
 <img width="354" height="502" alt="5" src="https://github.com/user-attachments/assets/8577b1f6-dc82-4ebb-ba98-cae7cf0055f6" />
 
+7. Click on Email Templates > New Template
+   * Fill as shown below or fill according to your choice
+   * The template configuration also includes an option for “Add Tracking Image” for capture “Email Opened” metrics
+<img width="350" height="523" alt="6" src="https://github.com/user-attachments/assets/25aaa1af-a846-4eb5-9763-c68b9b9287d6" />
+
+8. Click on User & Groups > New Group
+   * Add your targets to GoPhish by creating a new group
+   * You can import users through a comma-delimited CSV file or manually enter their information and click Save Changes
+<img width="900" height="600" alt="7" src="https://github.com/user-attachments/assets/848a0488-71c1-48a0-9e7d-5d6718c3fdc9" />
+
+9. Launch Campaign
+   * Create a new Campaign under Campaigns > New Campaign
+   * Configure your Campaign with the appropriate Email Template, Landing Page, and Sending Profile. The configured URL will be the GoPhish server URL that hosts the Landing Page and “Email Opened” image tracker
+<img width="843" height="562" alt="8" src="https://github.com/user-attachments/assets/cb541270-9259-4bac-b8f5-5516fd55fed6" />
+
+
